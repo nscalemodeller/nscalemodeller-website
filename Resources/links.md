@@ -9,7 +9,7 @@ Here are some links to various sites with Arduino DCC related Info. They tend to
 ### Decoders
 
 * [Model Railroading with Arduino]
-  * Various projects including .
+  * Various projects.
 
 
 [DCC-EX Model Railroading]: https://dcc-ex.com

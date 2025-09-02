@@ -14,7 +14,7 @@ struct WebsiteFooter: HTML {
             }
             Text {
                 "&nbsp;| Source Code for this site is at "
-                Link("GitHub ", target: URL(static: "https://github.com/nscalemodeller/webite-project"))
+                Link("GitHub ", target: URL(static: "https://github.com/nscalemodeller/nscalemodeller-website"))
             }
         }.class("d-flex justify-content-center")  /// 'bootstrap' - place side by side
         .margin(.small)
