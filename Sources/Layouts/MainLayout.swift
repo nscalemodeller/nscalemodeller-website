@@ -119,7 +119,6 @@ struct MainLayout: Layout {
                 .padding(.bottom, 20)
             }
             WebsiteFooter()
-
         }
     }
 }
